@@ -1,0 +1,43 @@
+
+.Graph_Header{
+    display: flex;
+    align-items: center;
+   
+    margin: 4px;
+    padding: 2px;
+   
+    justify-content: space-around;
+    
+}
+
+.Main_Box{
+    border-radius: 6px;
+    border-style: solid;
+    border-width: thin;
+    min-width: 200px;
+    border-color:#e1e1e1 ;
+    
+}
+
+.Main_Box >span{
+    color: #757575;
+    font-size: 12px;
+    margin: 4px;
+    padding: 2px;
+}
+.p{
+    display: flex;
+    align-items: center;
+    margin: 4px;
+    padding: 2px;
+    font-size: 23px;
+     justify-content: space-between;
+}
+
+.Button_One{
+ margin-left: 7px;
+ align-items: center;
+ margin: 4px;
+ padding: 2px;
+
+}

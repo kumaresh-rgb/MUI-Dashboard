@@ -1,0 +1,43 @@
+.Siderbar_main{
+  margin-top: 59px;
+}
+
+.Man{
+  display: flex;
+  font-size: 15px;
+  
+  font-family: 'Roboto';
+  padding: 2px;
+  margin: 5px;
+  color: #757575;
+}
+
+
+.MuiToolbar-root {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  
+  background-color: rgb(255, 255, 255) ;
+}
+
+
+.Header_Main{
+  display: flex;
+  align-items: center;
+
+  
+  
+}
+
+
+.Header_right{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  
+  
+}
+
+
+

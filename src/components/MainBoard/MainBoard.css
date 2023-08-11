@@ -1,0 +1,77 @@
+
+
+.Main_Balance{
+    margin: 3px;
+    padding: 2px;
+}
+ 
+
+/* .MuiGrid-root{
+    margin-left: 90px;
+} */
+
+.gap{
+    margin-top: 10px;
+} 
+
+
+
+
+.Main{
+    
+    margin-left: 40px;
+    padding-left: 50px;
+}
+
+
+
+.Main_Header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: #757575;
+    margin: 4px;
+    padding: 2px;
+}
+
+.Main_Middle{
+    display: flex;
+    align-items: center;
+    margin: 3px;
+    padding: 2px;
+    font-size: 30px;
+    justify-content: space-between;
+
+}
+
+.Progress{
+    margin:5px;
+    padding: 2px;
+}
+
+
+.Main_Bottom{
+    margin: 3px;
+    padding: 2px;
+    font-size: 12px;
+    
+}
+
+
+
+.Earnings_Header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: #757575;
+    margin: 4px;
+    padding: 2px;
+}
+
+.Earnings_Middle{
+    margin: 4px;
+    padding: 2px;
+}
+
+
+
